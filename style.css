@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Cabin|Josefin+Sans&display=swap');
+body {
+font-family: 'Cabin', sans-serif;
+font-size: 1rem;
+background-color: #303d57;
+color:#FFF;
+padding: 60px;
+text-align: center;
+}
+
+img{
+border-radius: 20px;
+padding:1px;
+border:1px solid #FFF;
+width: 80%;
+
+}
+
+h1
+{
+font-family: 'Josefin Sans', sans-serif;
+font-size: 4rem;
+text-align: center;
+color:#FFF;
+text-shadow: 3px 0 #000;
+
+}
+p
+{
+text-shadow: 2px 0 #000;
+
+}
+hr
+{
+border-top: 1px solid #303d57;
+
+}
+.logo
+{
+max-width: 150px;
+max-height: 200px;
+border-radius: 0px;
+border:0px;
+
+}
+.grow:hover
+{
+        -webkit-transform: scale(1.3);
+        -ms-transform: scale(1.3);
+        transform: scale(1.3);
+}
+
+.container
+{
+padding: 10px
+}
+
+.header
+{
+background-color: #04172d;
+border-radius: 20px;
+padding: 10px;
+}
+
+.footer
+{
+background-color: #04172d;
+border-radius: 20px;
+padding: 10px;
+}
