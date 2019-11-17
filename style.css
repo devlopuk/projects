@@ -2,7 +2,7 @@
 body {
 font-family: 'Cabin', sans-serif;
 font-size: 1rem;
-background-color: #303d57;
+background-color: #36353b;
 color:#FFF;
 padding: 60px;
 text-align: center;
@@ -32,7 +32,7 @@ text-shadow: 2px 0 #000;
 }
 hr
 {
-border-top: 1px solid #303d57;
+border-top: 1px solid #36353b;
 
 }
 .logo
@@ -57,14 +57,14 @@ padding: 10px
 
 .header
 {
-background-color: #04172d;
+background-color: #ee6400;
 border-radius: 20px;
 padding: 10px;
 }
 
 .footer
 {
-background-color: #04172d;
+background-color: #36353b;
 border-radius: 20px;
 padding: 10px;
 }
